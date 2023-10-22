@@ -1,6 +1,6 @@
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="20%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="20%" style="display:inline;">
 
-<h1 align="center">Hi 👋, I'm Rahul Baraiya</h1>
+<h1 align="center">Hi 👋, I'm Patel ashik</h1>
 <h3 align="center">A passionate programmer from India</h3>
 
 <p align="center"> -------------------------------------------------------------------------------------------------------------------------------------------------------------- </p>
@@ -10,24 +10,24 @@
 
 - 🔭 I’m currently working at **Bytesved Technologies**
 
-- 🌱 I’m currently learning about **Back End Technologies**    
+- 🌱 I’m currently learning about **Front End Technologies**    
 
-- 👨‍💻 All of my projects are available at [Rahul's workspace](https://github.com/HenryParadox)
+- 👨‍💻 All of my projects are available at [ashik's workspace]((https://github.com/patelashik17))
 
-- 💬 Ask me about **JavaScript, NodeJS Express JS, Redis, Firebase and MongoDB**
+- 💬 Ask me about **JavaScript, ReactJS , Typescript, Redux**
 
-- 📫 How to reach me **rahul.bytesved@gmail.com**
+- 📫 How to reach me **ashik.bytesved@gmail.com**
 
 - ⚡ Fun fact **I think I'm hungry about coding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rahulbaraiya12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rahul-Baraiya" height="30" width="40" /></a>
+<a href="(https://www.linkedin.com/in/patel-ashik-388639232?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ashik-patel" height="30" width="40" /></a>
 </p>
 <br>
 <h3 align="left">Languages and Tools:</h3>
 
-- Backend
+- Fronted
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,nodejs,expressjs,redis,pug" />
