@@ -30,21 +30,7 @@
 - Fronted
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,nodejs,expressjs,redis,pug" />
-  </a>
-</p>
-
-- Frontend
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,css,html" />
-  </a>
-</p>
-
-- Database
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,redux" />
   </a>
 </p>
 
@@ -58,10 +44,10 @@
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,linux,vscode,postman,putty" />
+    <img src="https://skillicons.dev/icons?i=git,linux,vscode,postman" />
   </a>
 </p>
 <br/>
 
 <br>
-<p align="right" > Created with 🧡 by Rahul Baraiya</a></p>
+<p align="right" > Created with 🧡 by Patel Ashik</a></p>
