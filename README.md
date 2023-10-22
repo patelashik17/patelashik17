@@ -23,6 +23,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/patelashik17" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="Ashik-patel" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/aj_patel_17/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="Ashik-patel" height="30" width="40" /></a>
 </p>
 <br>
 <h3 align="left">Languages and Tools:</h3>
