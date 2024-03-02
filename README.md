@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **JavaScript, ReactJS , Typescript, Redux**
 
-- 📫 How to reach me **ashik.bytesved@gmail.com**
+- 📫 How to reach me **patelashik2226@gmail.com**
 
 - ⚡ Fun fact **I think I'm hungry about coding**
 
