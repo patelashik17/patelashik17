@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [ashik's workspace]((https://github.com/patelashik17))
 
-- 💬 Ask me about **JavaScript, ReactJS , Typescript, Redux**
+- 💬 Ask me about **JavaScript, ReactJS , Typescript, Redux** and other react library and packages
 
 - 📫 How to reach me **patelashik2226@gmail.com**
 
