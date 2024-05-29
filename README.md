@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working at **Bytesved Technologies**
 
-- 🌱 I’m currently learning about **Front End Technologies**    
+- 🌱 I’m currently working in **Front End Technologies**    
 
 - 👨‍💻 All of my projects are available at [ashik's workspace]((https://github.com/patelashik17))
 
