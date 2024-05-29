@@ -48,6 +48,3 @@
   </a>
 </p>
 <br/>
-
-<br>
-<p align="right" > Created with 🧡 by Patel Ashik</a></p>
