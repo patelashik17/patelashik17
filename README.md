@@ -30,7 +30,7 @@
 - Fronted
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,materialui,tailwind,sass,bootstrap,js,react,typescript,redux" />
+    <img src="https://skillicons.dev/icons?i=html,css,materialui,tailwind,sass,bootstrap,js,react,typescript,redux,shopify" />
   </a>
 </p>
 
